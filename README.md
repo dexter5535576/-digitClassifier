@@ -2,18 +2,25 @@
 
 A machine learning neural network that classifies handwritten digits from the MNIST dataset.
 ### Preview
-![training accuracy at the beginning](img/1.png)
+![training accuracy at the beginning](img/9.png)
 
 ### Motivation
-I have already utilized HTML and CSS on my previous front-end projects—this time, I want to practice more using JavaScript to program dynamic elements.  In addition, I will develop a web page that can take a selfie and send an email or share it on social media.  It is essential for me because the project is challenging as it contains features that are totally new to me, and completing the project will help improve my full-stack web development skills.
+This project is one of the course projects from Artificial Intelligence course at UC Berkeley.  I have already had Machine Learning (ML) related project in another course Optimization at the same university. This time my job is to train a model to classify digits written by humans. It is essential for me because the project is challenging as it contains hyperparameters that I have to consistently change in order to maximize accuracy of classifying digits correctly. In the end, the classifer can reach accuracy to 97.5% using the testing set.
 
-### Why this project
-The most critical aspect of front-end development is optimizing user experience.  A great website not only needs to be visually satisfied, but it also needs to have a certain amount of user interactions.  Therefore, I decided to create an online photo booth website to practice developing user-centric applications.  The project helped me get familiar with Back End skills but also helped advertise a non-profit event.
+![training accuracy](img/1.png)
+![training accuracy](img/2.png)
+![training accuracy](img/3.png)
+![training accuracy](img/4.png)
+![training accuracy](img/5.png)
+![training accuracy](img/6.png)
+![training accuracy](img/7.png)
+![training accuracy](img/8.png)
+![training accuracy](img/9.png)
 
 ### Description
-- Developed a responsive interactive website for users to select frames and take a snapshot
-- Added Nodemailer in backend server to allow delivery of instant taken image to a user
-- Improved user experience by implementing features for image upload and social media share buttons
+- Implemented parts of the existing models for natural language processing.
+- Trained a network to analyze information.
+- Classified handwritten digits from the MNIST dataset.
 
 ### Skills to learn
 - Python
