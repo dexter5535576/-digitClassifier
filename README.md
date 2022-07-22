@@ -16,15 +16,6 @@ The most critical aspect of front-end development is optimizing user experience.
 - Improved user experience by implementing features for image upload and social media share buttons
 
 ### Skills to learn
-- JavaScript
-- HTML
-- CSS
-- Node.js
-- SMTP
-- Express.js
-- JSON
-- Front-End Development
-- Back-End Web Development
-- Web Development
-- Web Hosting
-- Git
+- Python
+- Natural Language Processing
+- Machine Learning
